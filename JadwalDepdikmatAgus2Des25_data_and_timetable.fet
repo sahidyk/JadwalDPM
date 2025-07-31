@@ -7453,7 +7453,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>1</Activity_Id>
-      <Day>Rabu</Day>
+      <Day>Selasa</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7462,7 +7462,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>2</Activity_Id>
-      <Day>Selasa</Day>
+      <Day>Kamis</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7471,8 +7471,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>3</Activity_Id>
-      <Day>Selasa</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Senin</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7480,7 +7480,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>4</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Kamis</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7489,7 +7489,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>5</Activity_Id>
-      <Day>Selasa</Day>
+      <Day>Jum&apos;at</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7499,7 +7499,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>6</Activity_Id>
       <Day>Kamis</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7507,7 +7507,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>7</Activity_Id>
-      <Day>Rabu</Day>
+      <Day>Selasa</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7516,7 +7516,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>8</Activity_Id>
-      <Day>Kamis</Day>
+      <Day>Senin</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7534,8 +7534,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>10</Activity_Id>
-      <Day>Jum&apos;at</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Selasa</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7552,7 +7552,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>12</Activity_Id>
-      <Day>Selasa</Day>
+      <Day>Rabu</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7570,7 +7570,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>15</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Kamis</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7580,7 +7580,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>16</Activity_Id>
       <Day>Rabu</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7588,7 +7588,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>17</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Selasa</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7597,24 +7597,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>18</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>12:40 - 15:10</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>19</Activity_Id>
-      <Day>Rabu</Day>
-      <Hour>12:40 - 15:10</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>20</Activity_Id>
       <Day>Senin</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
@@ -7623,8 +7605,26 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredStartingTime>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>19</Activity_Id>
+      <Day>Selasa</Day>
+      <Hour>12:40 - 15:10</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>20</Activity_Id>
+      <Day>Kamis</Day>
+      <Hour>09:20 - 11:50</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>21</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Rabu</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7633,7 +7633,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>22</Activity_Id>
-      <Day>Rabu</Day>
+      <Day>Kamis</Day>
       <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7652,7 +7652,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>24</Activity_Id>
       <Day>Selasa</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7660,7 +7660,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>28</Activity_Id>
-      <Day>Selasa</Day>
+      <Day>Senin</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7669,8 +7669,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>29</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Jum&apos;at</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7679,7 +7679,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>32</Activity_Id>
       <Day>Selasa</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7687,8 +7687,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>33</Activity_Id>
-      <Day>Jum&apos;at</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Day>Kamis</Day>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7696,8 +7696,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>41</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Day>Rabu</Day>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7705,8 +7705,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>42</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Day>Selasa</Day>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7714,8 +7714,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>43</Activity_Id>
-      <Day>Senin</Day>
-      <Hour>07:30 - 09:10</Hour>
+      <Day>Selasa</Day>
+      <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7723,7 +7723,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>44</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Selasa</Day>
       <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7733,7 +7733,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>45</Activity_Id>
       <Day>Sabtu</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7741,8 +7741,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>46</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Sabtu</Day>
+      <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7751,7 +7751,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>47</Activity_Id>
       <Day>Kamis</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7759,15 +7759,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>48</Activity_Id>
-      <Day>Rabu</Day>
-      <Hour>09:20 - 11:50</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>49</Activity_Id>
       <Day>Selasa</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
@@ -7776,8 +7767,17 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredStartingTime>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>49</Activity_Id>
+      <Day>Rabu</Day>
+      <Hour>09:20 - 11:50</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>50</Activity_Id>
-      <Day>Kamis</Day>
+      <Day>Jum&apos;at</Day>
       <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7787,7 +7787,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>51</Activity_Id>
       <Day>Rabu</Day>
-      <Hour>15:30 -17:10</Hour>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7795,7 +7795,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>53</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Rabu</Day>
       <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7804,8 +7804,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>54</Activity_Id>
-      <Day>Jum&apos;at</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Kamis</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7813,7 +7813,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>55</Activity_Id>
-      <Day>Rabu</Day>
+      <Day>Selasa</Day>
       <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7831,7 +7831,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>57</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Kamis</Day>
       <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7849,7 +7849,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>62</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Rabu</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7858,8 +7858,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>63</Activity_Id>
-      <Day>Rabu</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Day>Senin</Day>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7867,8 +7867,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>64</Activity_Id>
-      <Day>Senin</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Day>Kamis</Day>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7876,7 +7876,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>65</Activity_Id>
-      <Day>Rabu</Day>
+      <Day>Senin</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7885,7 +7885,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>66</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Senin</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7894,8 +7894,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>67</Activity_Id>
-      <Day>Senin</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Rabu</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7903,7 +7903,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>68</Activity_Id>
-      <Day>Kamis</Day>
+      <Day>Selasa</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7913,7 +7913,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>69</Activity_Id>
       <Day>Senin</Day>
-      <Hour>15:30 -17:10</Hour>
+      <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7921,7 +7921,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>70</Activity_Id>
-      <Day>Kamis</Day>
+      <Day>Selasa</Day>
       <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7930,6 +7930,15 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>71</Activity_Id>
+      <Day>Senin</Day>
+      <Hour>12:40 - 15:10</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>72</Activity_Id>
       <Day>Jum&apos;at</Day>
       <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
@@ -7938,17 +7947,8 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredStartingTime>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>72</Activity_Id>
-      <Day>Rabu</Day>
-      <Hour>15:30 -17:10</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>73</Activity_Id>
-      <Day>Selasa</Day>
+      <Day>Rabu</Day>
       <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7966,8 +7966,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>75</Activity_Id>
-      <Day>Rabu</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Senin</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7975,7 +7975,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>76</Activity_Id>
-      <Day>Rabu</Day>
+      <Day>Senin</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7984,8 +7984,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>77</Activity_Id>
-      <Day>Jum&apos;at</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Day>Kamis</Day>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7994,7 +7994,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>78</Activity_Id>
       <Day>Jum&apos;at</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8002,8 +8002,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>79</Activity_Id>
-      <Day>Selasa</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Rabu</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8011,7 +8011,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>80</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Rabu</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8020,8 +8020,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>81</Activity_Id>
-      <Day>Selasa</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Day>Rabu</Day>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8029,7 +8029,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>82</Activity_Id>
-      <Day>Selasa</Day>
+      <Day>Jum&apos;at</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8038,8 +8038,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>83</Activity_Id>
-      <Day>Senin</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Day>Selasa</Day>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8056,8 +8056,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>85</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Day>Selasa</Day>
+      <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8065,8 +8065,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>87</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Day>Senin</Day>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8074,7 +8074,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>88</Activity_Id>
-      <Day>Rabu</Day>
+      <Day>Kamis</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8083,8 +8083,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>89</Activity_Id>
-      <Day>Selasa</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Jum&apos;at</Day>
+      <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8092,7 +8092,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>90</Activity_Id>
-      <Day>Kamis</Day>
+      <Day>Selasa</Day>
       <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8101,8 +8101,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>91</Activity_Id>
-      <Day>Rabu</Day>
-      <Hour>07:30 - 09:10</Hour>
+      <Day>Senin</Day>
+      <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8110,7 +8110,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>92</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Kamis</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8119,7 +8119,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>93</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Selasa</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8128,7 +8128,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>94</Activity_Id>
-      <Day>Rabu</Day>
+      <Day>Jum&apos;at</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8137,7 +8137,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>95</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Selasa</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8146,7 +8146,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>96</Activity_Id>
-      <Day>Rabu</Day>
+      <Day>Jum&apos;at</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8155,7 +8155,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>97</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Jum&apos;at</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8173,7 +8173,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>99</Activity_Id>
-      <Day>Kamis</Day>
+      <Day>Jum&apos;at</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8192,7 +8192,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>101</Activity_Id>
       <Day>Rabu</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8200,7 +8200,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>102</Activity_Id>
-      <Day>Selasa</Day>
+      <Day>Jum&apos;at</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8209,7 +8209,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>103</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Rabu</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8218,7 +8218,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>104</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Kamis</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8227,7 +8227,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>105</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Kamis</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8236,15 +8236,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>106</Activity_Id>
-      <Day>Senin</Day>
-      <Hour>12:40 - 15:10</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>107</Activity_Id>
       <Day>Kamis</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
@@ -8253,8 +8244,17 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredStartingTime>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>108</Activity_Id>
+      <Activity_Id>107</Activity_Id>
       <Day>Selasa</Day>
+      <Hour>12:40 - 15:10</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>108</Activity_Id>
+      <Day>Jum&apos;at</Day>
       <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8263,8 +8263,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>109</Activity_Id>
-      <Day>Rabu</Day>
-      <Hour>07:30 - 09:10</Hour>
+      <Day>Kamis</Day>
+      <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8272,8 +8272,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>110</Activity_Id>
-      <Day>Rabu</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Senin</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8281,8 +8281,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>114</Activity_Id>
-      <Day>Jum&apos;at</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Day>Kamis</Day>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8299,24 +8299,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>116</Activity_Id>
-      <Day>Jum&apos;at</Day>
-      <Hour>12:40 - 15:10</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>118</Activity_Id>
-      <Day>Jum&apos;at</Day>
-      <Hour>09:20 - 11:50</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>119</Activity_Id>
       <Day>Senin</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
@@ -8325,8 +8307,17 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredStartingTime>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>120</Activity_Id>
-      <Day>Kamis</Day>
+      <Activity_Id>118</Activity_Id>
+      <Day>Sabtu</Day>
+      <Hour>15:30 -17:10</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>119</Activity_Id>
+      <Day>Selasa</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8334,8 +8325,17 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredStartingTime>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>120</Activity_Id>
+      <Day>Rabu</Day>
+      <Hour>12:40 - 15:10</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>121</Activity_Id>
-      <Day>Kamis</Day>
+      <Day>Rabu</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8345,7 +8345,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>122</Activity_Id>
       <Day>Senin</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8353,7 +8353,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>123</Activity_Id>
-      <Day>Kamis</Day>
+      <Day>Jum&apos;at</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8362,8 +8362,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>124</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Senin</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8372,7 +8372,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>125</Activity_Id>
       <Day>Jum&apos;at</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8380,7 +8380,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>126</Activity_Id>
-      <Day>Kamis</Day>
+      <Day>Senin</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8390,7 +8390,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>127</Activity_Id>
       <Day>Jum&apos;at</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8398,7 +8398,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>141</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Kamis</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8407,16 +8407,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>142</Activity_Id>
-      <Day>Rabu</Day>
-      <Hour>07:30 - 09:10</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>143</Activity_Id>
-      <Day>Rabu</Day>
+      <Day>Senin</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8424,9 +8415,18 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredStartingTime>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>143</Activity_Id>
+      <Day>Jum&apos;at</Day>
+      <Hour>07:30 - 09:10</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>144</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>15:30 -17:10</Hour>
+      <Day>Senin</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8434,7 +8434,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>145</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Selasa</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8443,8 +8443,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>146</Activity_Id>
-      <Day>Senin</Day>
-      <Hour>15:30 -17:10</Hour>
+      <Day>Kamis</Day>
+      <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8462,7 +8462,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>148</Activity_Id>
       <Day>Rabu</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8470,7 +8470,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>149</Activity_Id>
-      <Day>Selasa</Day>
+      <Day>Sabtu</Day>
       <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8479,8 +8479,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>150</Activity_Id>
-      <Day>Sabtu</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Day>Selasa</Day>
+      <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8488,8 +8488,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>151</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Senin</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8506,15 +8506,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>153</Activity_Id>
-      <Day>Sabtu</Day>
-      <Hour>12:40 - 15:10</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>154</Activity_Id>
       <Day>Kamis</Day>
       <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
@@ -8523,8 +8514,17 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredStartingTime>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>154</Activity_Id>
+      <Day>Sabtu</Day>
+      <Hour>09:20 - 11:50</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>155</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Kamis</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8533,8 +8533,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>156</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Jum&apos;at</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8542,7 +8542,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>157</Activity_Id>
-      <Day>Selasa</Day>
+      <Day>Rabu</Day>
       <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8552,7 +8552,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>158</Activity_Id>
       <Day>Kamis</Day>
-      <Hour>07:30 - 09:10</Hour>
+      <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8560,7 +8560,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>159</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Jum&apos;at</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8578,7 +8578,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>161</Activity_Id>
-      <Day>Rabu</Day>
+      <Day>Selasa</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8588,7 +8588,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>162</Activity_Id>
       <Day>Rabu</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8596,8 +8596,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>163</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>07:30 - 09:10</Hour>
+      <Day>Senin</Day>
+      <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8623,24 +8623,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>169</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>12:40 - 15:10</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>170</Activity_Id>
-      <Day>Senin</Day>
-      <Hour>09:20 - 11:50</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>171</Activity_Id>
       <Day>Jum&apos;at</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
@@ -8649,8 +8631,26 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredStartingTime>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>170</Activity_Id>
+      <Day>Kamis</Day>
+      <Hour>12:40 - 15:10</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>171</Activity_Id>
+      <Day>Senin</Day>
+      <Hour>09:20 - 11:50</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>172</Activity_Id>
-      <Day>Rabu</Day>
+      <Day>Jum&apos;at</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8659,16 +8659,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>173</Activity_Id>
-      <Day>Selasa</Day>
-      <Hour>12:40 - 15:10</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>174</Activity_Id>
-      <Day>Selasa</Day>
+      <Day>Senin</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8676,8 +8667,17 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredStartingTime>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>175</Activity_Id>
+      <Activity_Id>174</Activity_Id>
       <Day>Kamis</Day>
+      <Hour>12:40 - 15:10</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>175</Activity_Id>
+      <Day>Selasa</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8686,7 +8686,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>176</Activity_Id>
-      <Day>Selasa</Day>
+      <Day>Senin</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8695,7 +8695,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>177</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Jum&apos;at</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8705,7 +8705,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>178</Activity_Id>
       <Day>Rabu</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8713,7 +8713,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>179</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Kamis</Day>
       <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8722,8 +8722,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>180</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>15:30 -17:10</Hour>
+      <Day>Jum&apos;at</Day>
+      <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8731,7 +8731,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>181</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Jum&apos;at</Day>
       <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8740,8 +8740,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>182</Activity_Id>
-      <Day>Selasa</Day>
-      <Hour>15:30 -17:10</Hour>
+      <Day>Jum&apos;at</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8749,8 +8749,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>183</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>15:30 -17:10</Hour>
+      <Day>Selasa</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8758,8 +8758,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>184</Activity_Id>
-      <Day>Selasa</Day>
-      <Hour>07:30 - 09:10</Hour>
+      <Day>Jum&apos;at</Day>
+      <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8767,7 +8767,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>185</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Kamis</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8777,7 +8777,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>186</Activity_Id>
       <Day>Jum&apos;at</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8794,8 +8794,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>188</Activity_Id>
-      <Day>Jum&apos;at</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Senin</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8803,7 +8803,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>189</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Selasa</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8821,7 +8821,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>192</Activity_Id>
-      <Day>Rabu</Day>
+      <Day>Senin</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8848,8 +8848,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>195</Activity_Id>
-      <Day>Selasa</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Day>Jum&apos;at</Day>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8875,7 +8875,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>202</Activity_Id>
-      <Day>Rabu</Day>
+      <Day>Senin</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8884,8 +8884,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>203</Activity_Id>
-      <Day>Jum&apos;at</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Selasa</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8893,7 +8893,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>204</Activity_Id>
-      <Day>Selasa</Day>
+      <Day>Kamis</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8902,7 +8902,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>205</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Selasa</Day>
       <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8912,7 +8912,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>206</Activity_Id>
       <Day>Senin</Day>
-      <Hour>07:30 - 09:10</Hour>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8920,7 +8920,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>207</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Rabu</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -8930,7 +8930,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>208</Activity_Id>
       <Day>Jum&apos;at</Day>
-      <Hour>15:30 -17:10</Hour>
+      <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8948,7 +8948,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>210</Activity_Id>
       <Day>Rabu</Day>
-      <Hour>15:30 -17:10</Hour>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8965,8 +8965,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>213</Activity_Id>
-      <Day>Senin</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Rabu</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8974,8 +8974,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>214</Activity_Id>
-      <Day>Jum&apos;at</Day>
-      <Hour>07:30 - 09:10</Hour>
+      <Day>Rabu</Day>
+      <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8983,8 +8983,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>215</Activity_Id>
-      <Day>Rabu</Day>
-      <Hour>07:30 - 09:10</Hour>
+      <Day>Jum&apos;at</Day>
+      <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -8993,7 +8993,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>216</Activity_Id>
       <Day>Kamis</Day>
-      <Hour>07:30 - 09:10</Hour>
+      <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -9002,7 +9002,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>217</Activity_Id>
       <Day>Selasa</Day>
-      <Hour>07:30 - 09:10</Hour>
+      <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -9010,8 +9010,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>218</Activity_Id>
-      <Day>Senin</Day>
-      <Hour>07:30 - 09:10</Hour>
+      <Day>Selasa</Day>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -9019,7 +9019,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>219</Activity_Id>
-      <Day>Kamis</Day>
+      <Day>Rabu</Day>
       <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -9028,8 +9028,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>220</Activity_Id>
-      <Day>Selasa</Day>
-      <Hour>15:30 -17:10</Hour>
+      <Day>Senin</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -9038,7 +9038,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>221</Activity_Id>
       <Day>Jum&apos;at</Day>
-      <Hour>15:30 -17:10</Hour>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -9046,7 +9046,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>222</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Kamis</Day>
       <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -9055,7 +9055,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>223</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Rabu</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -9064,15 +9064,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>224</Activity_Id>
-      <Day>Selasa</Day>
-      <Hour>12:40 - 15:10</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>225</Activity_Id>
       <Day>Kamis</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
@@ -9081,8 +9072,17 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredStartingTime>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>225</Activity_Id>
+      <Day>Jum&apos;at</Day>
+      <Hour>12:40 - 15:10</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>226</Activity_Id>
-      <Day>Selasa</Day>
+      <Day>Kamis</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -9100,7 +9100,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>231</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Jum&apos;at</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -9109,7 +9109,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>232</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Senin</Day>
       <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -9118,7 +9118,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>233</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Selasa</Day>
       <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -9127,7 +9127,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>234</Activity_Id>
-      <Day>Senin</Day>
+      <Day>Jum&apos;at</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -9136,7 +9136,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>235</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Senin</Day>
       <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -9145,7 +9145,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>236</Activity_Id>
-      <Day>Kamis</Day>
+      <Day>Selasa</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -9154,7 +9154,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>237</Activity_Id>
-      <Day>Kamis</Day>
+      <Day>Rabu</Day>
       <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -9164,7 +9164,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>238</Activity_Id>
       <Day>Selasa</Day>
-      <Hour>07:30 - 09:10</Hour>
+      <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -9172,8 +9172,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>239</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Day>Senin</Day>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -9181,8 +9181,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>240</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Selasa</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -9190,8 +9190,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>241</Activity_Id>
-      <Day>Rabu</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Jum&apos;at</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -9200,7 +9200,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>242</Activity_Id>
       <Day>Senin</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -9208,8 +9208,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>243</Activity_Id>
-      <Day>Selasa</Day>
-      <Hour>15:30 -17:10</Hour>
+      <Day>Jum&apos;at</Day>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -9217,8 +9217,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>244</Activity_Id>
-      <Day>Kamis</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Day>Rabu</Day>
+      <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -9226,7 +9226,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>245</Activity_Id>
-      <Day>Selasa</Day>
+      <Day>Kamis</Day>
       <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -9236,7 +9236,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>246</Activity_Id>
       <Day>Senin</Day>
-      <Hour>07:30 - 09:10</Hour>
+      <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -9245,7 +9245,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>247</Activity_Id>
       <Day>Jum&apos;at</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -9254,7 +9254,7 @@ Departemen Pendidikan Matematika</Comments>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>248</Activity_Id>
       <Day>Jum&apos;at</Day>
-      <Hour>09:20 - 11:50</Hour>
+      <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -9262,7 +9262,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>249</Activity_Id>
-      <Day>Rabu</Day>
+      <Day>Kamis</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -9280,7 +9280,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>251</Activity_Id>
-      <Day>Selasa</Day>
+      <Day>Kamis</Day>
       <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -9289,7 +9289,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>252</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Senin</Day>
       <Hour>12:40 - 15:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -9307,7 +9307,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>254</Activity_Id>
-      <Day>Jum&apos;at</Day>
+      <Day>Kamis</Day>
       <Hour>15:30 -17:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -9316,8 +9316,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>255</Activity_Id>
-      <Day>Rabu</Day>
-      <Hour>15:30 -17:10</Hour>
+      <Day>Jum&apos;at</Day>
+      <Hour>07:30 - 09:10</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -9325,8 +9325,8 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>263</Activity_Id>
-      <Day>Selasa</Day>
-      <Hour>12:40 - 15:10</Hour>
+      <Day>Rabu</Day>
+      <Hour>09:20 - 11:50</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10066,86 +10066,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>1</Activity_Id>
-      <Room>Lab Pend Mat (Lt 3)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>2</Activity_Id>
-      <Room>Lab Pend Mat (Lt 3)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>3</Activity_Id>
-      <Room>D03.2.01.05</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>4</Activity_Id>
-      <Room>D02.3.01.05</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>5</Activity_Id>
-      <Room>D04.2.01.06(Magister)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>6</Activity_Id>
-      <Room>D02.1.01.06</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>7</Activity_Id>
-      <Room>D02.2.01.06</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>8</Activity_Id>
-      <Room>R. PPG 2 (Lt 2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>9</Activity_Id>
-      <Room>D03.3.01.05</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>10</Activity_Id>
-      <Room>Lab Pend Mat (Lt 3)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>11</Activity_Id>
       <Room>Lab Kom 2 (Lt2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -10153,39 +10073,39 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>12</Activity_Id>
-      <Room>R. Audio Visual (Lt 2)</Room>
+      <Activity_Id>2</Activity_Id>
+      <Room>Lab Kom 1 (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>13</Activity_Id>
-      <Room>D02.3.01.05</Room>
+      <Activity_Id>3</Activity_Id>
+      <Room>D03.3.01.05</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>15</Activity_Id>
-      <Room>D07.3.01.10</Room>
+      <Activity_Id>4</Activity_Id>
+      <Room>D02.3.01.06</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>16</Activity_Id>
-      <Room>D07.2.01.09</Room>
+      <Activity_Id>5</Activity_Id>
+      <Room>R. M2 (Lt 1)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>17</Activity_Id>
+      <Activity_Id>6</Activity_Id>
       <Room>D03.2.01.05</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -10193,23 +10113,7 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>18</Activity_Id>
-      <Room>Lab Pend Mat (Lt 3)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>19</Activity_Id>
-      <Room>D04.3.01.10 (Magister)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>20</Activity_Id>
+      <Activity_Id>7</Activity_Id>
       <Room>D02.1.01.06</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -10217,7 +10121,47 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>21</Activity_Id>
+      <Activity_Id>8</Activity_Id>
+      <Room>D02.3.01.05</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>9</Activity_Id>
+      <Room>D02.3.01.05</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>10</Activity_Id>
+      <Room>D07.2.01.09</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>11</Activity_Id>
+      <Room>D07.2.01.09</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>12</Activity_Id>
+      <Room>D02.2.01.06</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>13</Activity_Id>
       <Room>R. PPG 1 (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -10225,15 +10169,31 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>22</Activity_Id>
-      <Room>D04.2.01.06(Magister)</Room>
+      <Activity_Id>15</Activity_Id>
+      <Room>D02.1.01.06</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>23</Activity_Id>
+      <Activity_Id>16</Activity_Id>
+      <Room>D02.2.01.06</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>17</Activity_Id>
+      <Room>D02.3.01.06</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>18</Activity_Id>
       <Room>Lab Kom 3 (IDB)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -10241,8 +10201,48 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>19</Activity_Id>
+      <Room>R. Audio Visual (Lt 2)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>20</Activity_Id>
+      <Room>D03.3.01.05</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>21</Activity_Id>
+      <Room>D02.3.01.05</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>22</Activity_Id>
+      <Room>D04.2.01.10(Magister)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>23</Activity_Id>
+      <Room>D04.2.01.06(Magister)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>24</Activity_Id>
-      <Room>Lab Kom 1 (Lt 3)</Room>
+      <Room>R. PPG 1 (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10258,7 +10258,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>29</Activity_Id>
-      <Room>Lab Kom 1 (Lt 3)</Room>
+      <Room>Lab Pend Mat (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10266,7 +10266,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>30</Activity_Id>
-      <Room>D04.2.01.10(Magister)</Room>
+      <Room>D04.2.01.06(Magister)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10274,7 +10274,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>32</Activity_Id>
-      <Room>D03.2.01.05</Room>
+      <Room>Lab Kom 1 (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10282,7 +10282,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>33</Activity_Id>
-      <Room>R. PPG 2 (Lt 2)</Room>
+      <Room>D02.2.01.06</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10290,7 +10290,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>41</Activity_Id>
-      <Room>D02.3.01.05</Room>
+      <Room>R. PPG 2 (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10306,7 +10306,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>43</Activity_Id>
-      <Room>R. M2 (Lt 1)</Room>
+      <Room>D04.2.01.06(Magister)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10314,7 +10314,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>44</Activity_Id>
-      <Room>R. Audio Visual (Lt 2)</Room>
+      <Room>R. M2 (Lt 1)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10338,7 +10338,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>47</Activity_Id>
-      <Room>D02.2.01.06</Room>
+      <Room>D02.1.01.06</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10346,7 +10346,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>48</Activity_Id>
-      <Room>D04.3.01.10 (Magister)</Room>
+      <Room>R. M2 (Lt 1)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10354,7 +10354,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>49</Activity_Id>
-      <Room>R. Audio Visual (Lt 2)</Room>
+      <Room>D04.2.01.06(Magister)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10362,7 +10362,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>50</Activity_Id>
-      <Room>R. Audio Visual (Lt 2)</Room>
+      <Room>R. M2 (Lt 1)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10370,7 +10370,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>51</Activity_Id>
-      <Room>D04.3.01.10 (Magister)</Room>
+      <Room>D04.2.01.10(Magister)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10378,7 +10378,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>53</Activity_Id>
-      <Room>R. PPG 1 (Lt 2)</Room>
+      <Room>Lab Kom 2 (Lt2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10386,7 +10386,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>54</Activity_Id>
-      <Room>D02.3.01.05</Room>
+      <Room>Lab Pend Mat (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10394,7 +10394,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>55</Activity_Id>
-      <Room>R. PPG 1 (Lt 2)</Room>
+      <Room>D02.3.01.05</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10402,7 +10402,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>56</Activity_Id>
-      <Room>R. M2 (Lt 1)</Room>
+      <Room>D04.2.01.06(Magister)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10426,7 +10426,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>62</Activity_Id>
-      <Room>R. PPG 2 (Lt 2)</Room>
+      <Room>D02.3.01.06</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10442,7 +10442,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>64</Activity_Id>
-      <Room>D02.2.01.06</Room>
+      <Room>D03.3.01.05</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10450,30 +10450,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>65</Activity_Id>
-      <Room>D04.2.01.10(Magister)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>66</Activity_Id>
-      <Room>R. Audio Visual (Lt 2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>67</Activity_Id>
-      <Room>R. Audio Visual (Lt 2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>68</Activity_Id>
       <Room>R. M2 (Lt 1)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -10481,55 +10457,31 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>66</Activity_Id>
+      <Room>D04.3.01.10 (Magister)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>67</Activity_Id>
+      <Room>D04.2.01.10(Magister)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>68</Activity_Id>
+      <Room>D04.2.01.10(Magister)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>69</Activity_Id>
-      <Room>D03.2.01.05</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>70</Activity_Id>
-      <Room>D07.2.01.09</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>71</Activity_Id>
-      <Room>R. PPG 2 (Lt 2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>72</Activity_Id>
-      <Room>D02.3.01.06</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>73</Activity_Id>
-      <Room>R. PPG 2 (Lt 2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>74</Activity_Id>
-      <Room>R. Audio Visual (Lt 2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>75</Activity_Id>
       <Room>D02.3.01.05</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -10537,31 +10489,7 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>76</Activity_Id>
-      <Room>D02.1.01.06</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>77</Activity_Id>
-      <Room>Lab Kom 2 (Lt2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>78</Activity_Id>
-      <Room>Lab Kom 2 (Lt2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>79</Activity_Id>
+      <Activity_Id>70</Activity_Id>
       <Room>D02.2.01.06</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -10569,7 +10497,15 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>80</Activity_Id>
+      <Activity_Id>71</Activity_Id>
+      <Room>D02.1.01.06</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>72</Activity_Id>
       <Room>Lab Kom 1 (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -10577,8 +10513,72 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>81</Activity_Id>
+      <Activity_Id>73</Activity_Id>
+      <Room>D03.3.01.05</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>74</Activity_Id>
+      <Room>D02.3.01.05</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>75</Activity_Id>
+      <Room>D07.2.01.09</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>76</Activity_Id>
+      <Room>R. PPG 1 (Lt 2)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>77</Activity_Id>
       <Room>D07.3.01.10</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>78</Activity_Id>
+      <Room>D07.2.01.09</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>79</Activity_Id>
+      <Room>D02.3.01.06</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>80</Activity_Id>
+      <Room>D03.2.01.05</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>81</Activity_Id>
+      <Room>D07.2.01.09</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10586,7 +10586,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>82</Activity_Id>
-      <Room>D03.3.01.05</Room>
+      <Room>D02.2.01.06</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10594,7 +10594,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>83</Activity_Id>
-      <Room>D03.3.01.05</Room>
+      <Room>D02.3.01.05</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10602,7 +10602,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>84</Activity_Id>
-      <Room>D07.3.01.10</Room>
+      <Room>Lab Kom 3 (IDB)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10610,7 +10610,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>85</Activity_Id>
-      <Room>D07.3.01.10</Room>
+      <Room>R. PPG 1 (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10634,22 +10634,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>89</Activity_Id>
-      <Room>Lab Kom 1 (Lt 3)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>90</Activity_Id>
-      <Room>Lab Pend Mat (Lt 3)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>91</Activity_Id>
       <Room>R. PPG 1 (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -10657,8 +10641,24 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>90</Activity_Id>
+      <Room>Lab Kom 3 (IDB)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>91</Activity_Id>
+      <Room>D02.2.01.06</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>92</Activity_Id>
-      <Room>Lab Kom 1 (Lt 3)</Room>
+      <Room>R. PPG 2 (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10674,7 +10674,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>94</Activity_Id>
-      <Room>D03.3.01.05</Room>
+      <Room>D07.2.01.09</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10682,7 +10682,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>95</Activity_Id>
-      <Room>Lab Pend Mat (Lt 3)</Room>
+      <Room>R. PPG 1 (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10690,7 +10690,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>96</Activity_Id>
-      <Room>D03.2.01.05</Room>
+      <Room>D02.3.01.05</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10698,7 +10698,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>97</Activity_Id>
-      <Room>D07.3.01.10</Room>
+      <Room>R. PPG 1 (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10714,7 +10714,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>99</Activity_Id>
-      <Room>D02.3.01.06</Room>
+      <Room>R. Audio Visual (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10738,7 +10738,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>102</Activity_Id>
-      <Room>D02.3.01.06</Room>
+      <Room>D03.3.01.05</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10746,7 +10746,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>103</Activity_Id>
-      <Room>D03.2.01.05</Room>
+      <Room>Lab Pend Mat (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10754,7 +10754,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>104</Activity_Id>
-      <Room>Lab Kom 1 (Lt 3)</Room>
+      <Room>R. PPG 1 (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10762,7 +10762,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>105</Activity_Id>
-      <Room>D04.2.01.06(Magister)</Room>
+      <Room>R. Audio Visual (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10770,7 +10770,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>106</Activity_Id>
-      <Room>R. M2 (Lt 1)</Room>
+      <Room>R. Audio Visual (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10778,7 +10778,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>107</Activity_Id>
-      <Room>D02.3.01.05</Room>
+      <Room>D03.2.01.05</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10786,7 +10786,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>108</Activity_Id>
-      <Room>D02.1.01.06</Room>
+      <Room>D07.2.01.09</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10794,7 +10794,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>109</Activity_Id>
-      <Room>R. PPG 2 (Lt 2)</Room>
+      <Room>D07.3.01.10</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10802,7 +10802,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>110</Activity_Id>
-      <Room>D02.3.01.06</Room>
+      <Room>D02.1.01.06</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10810,7 +10810,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>114</Activity_Id>
-      <Room>Lab Kom 3 (IDB)</Room>
+      <Room>R. M2 (Lt 1)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10818,7 +10818,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>115</Activity_Id>
-      <Room>D04.2.01.06(Magister)</Room>
+      <Room>R. Audio Visual (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10826,7 +10826,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>116</Activity_Id>
-      <Room>R. M2 (Lt 1)</Room>
+      <Room>R. Audio Visual (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10842,7 +10842,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>118</Activity_Id>
-      <Room>D04.2.01.10(Magister)</Room>
+      <Room>D04.2.01.06(Magister)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10850,7 +10850,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>119</Activity_Id>
-      <Room>R. PPG 1 (Lt 2)</Room>
+      <Room>D02.1.01.06</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10866,7 +10866,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>121</Activity_Id>
-      <Room>R. Audio Visual (Lt 2)</Room>
+      <Room>R. M2 (Lt 1)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10874,7 +10874,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>122</Activity_Id>
-      <Room>Lab Kom 1 (Lt 3)</Room>
+      <Room>Lab Kom 2 (Lt2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10882,7 +10882,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>123</Activity_Id>
-      <Room>Lab Pend Mat (Lt 3)</Room>
+      <Room>Lab Kom 1 (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10890,7 +10890,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>124</Activity_Id>
-      <Room>Lab Kom 2 (Lt2)</Room>
+      <Room>Lab Pend Mat (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10906,7 +10906,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>126</Activity_Id>
-      <Room>Lab Kom 1 (Lt 3)</Room>
+      <Room>D02.2.01.06</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10914,7 +10914,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>127</Activity_Id>
-      <Room>D07.2.01.09</Room>
+      <Room>R. PPG 1 (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -10930,150 +10930,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>141</Activity_Id>
-      <Room>D04.2.01.06(Magister)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>142</Activity_Id>
-      <Room>D03.3.01.05</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>143</Activity_Id>
-      <Room>D02.1.01.06</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>144</Activity_Id>
-      <Room>Lab Pend Mat (Lt 3)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>145</Activity_Id>
-      <Room>D02.2.01.06</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>146</Activity_Id>
-      <Room>R. Audio Visual (Lt 2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>147</Activity_Id>
-      <Room>D02.3.01.05</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>148</Activity_Id>
-      <Room>Lab Kom 2 (Lt2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>149</Activity_Id>
-      <Room>D04.2.01.10(Magister)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>150</Activity_Id>
-      <Room>D04.3.01.10 (Magister)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>151</Activity_Id>
-      <Room>D04.3.01.10 (Magister)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>152</Activity_Id>
-      <Room>D04.2.01.06(Magister)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>153</Activity_Id>
-      <Room>D04.2.01.06(Magister)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>154</Activity_Id>
-      <Room>D04.2.01.06(Magister)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>155</Activity_Id>
-      <Room>Lab Pend Mat (Lt 3)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>156</Activity_Id>
-      <Room>D02.2.01.06</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>157</Activity_Id>
-      <Room>R. Audio Visual (Lt 2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>158</Activity_Id>
-      <Room>Lab Kom 2 (Lt2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>159</Activity_Id>
       <Room>R. M2 (Lt 1)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -11081,8 +10937,152 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>160</Activity_Id>
+      <Activity_Id>142</Activity_Id>
+      <Room>R. PPG 1 (Lt 2)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>143</Activity_Id>
+      <Room>R. PPG 2 (Lt 2)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>144</Activity_Id>
+      <Room>D02.3.01.05</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>145</Activity_Id>
+      <Room>D07.3.01.10</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>146</Activity_Id>
+      <Room>D07.3.01.10</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>147</Activity_Id>
+      <Room>R. PPG 2 (Lt 2)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>148</Activity_Id>
+      <Room>Lab Kom 1 (Lt 3)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>149</Activity_Id>
+      <Room>D04.2.01.06(Magister)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>150</Activity_Id>
+      <Room>D04.2.01.06(Magister)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>151</Activity_Id>
+      <Room>D04.2.01.06(Magister)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>152</Activity_Id>
       <Room>D04.3.01.10 (Magister)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>153</Activity_Id>
+      <Room>D04.3.01.10 (Magister)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>154</Activity_Id>
+      <Room>D04.2.01.10(Magister)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>155</Activity_Id>
+      <Room>Lab Kom 1 (Lt 3)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>156</Activity_Id>
+      <Room>R. PPG 1 (Lt 2)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>157</Activity_Id>
+      <Room>D02.2.01.06</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>158</Activity_Id>
+      <Room>Lab Kom 1 (Lt 3)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>159</Activity_Id>
+      <Room>D04.2.01.10(Magister)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>160</Activity_Id>
+      <Room>R. M2 (Lt 1)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11098,22 +11098,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>162</Activity_Id>
-      <Room>R. M2 (Lt 1)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>163</Activity_Id>
-      <Room>D04.2.01.10(Magister)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>167</Activity_Id>
       <Room>D04.3.01.10 (Magister)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -11121,8 +11105,24 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>163</Activity_Id>
+      <Room>D04.2.01.06(Magister)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>167</Activity_Id>
+      <Room>D04.2.01.06(Magister)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>168</Activity_Id>
-      <Room>D03.3.01.05</Room>
+      <Room>D07.3.01.10</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11130,7 +11130,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>169</Activity_Id>
-      <Room>D07.2.01.09</Room>
+      <Room>D07.3.01.10</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11138,7 +11138,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>170</Activity_Id>
-      <Room>D07.2.01.09</Room>
+      <Room>Lab Pend Mat (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11146,7 +11146,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>171</Activity_Id>
-      <Room>D02.1.01.06</Room>
+      <Room>D02.3.01.06</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11154,7 +11154,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>172</Activity_Id>
-      <Room>D07.3.01.10</Room>
+      <Room>R. PPG 2 (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11170,7 +11170,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>174</Activity_Id>
-      <Room>D04.3.01.10 (Magister)</Room>
+      <Room>D04.2.01.10(Magister)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11178,7 +11178,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>175</Activity_Id>
-      <Room>D02.3.01.06</Room>
+      <Room>D03.3.01.05</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11186,30 +11186,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>176</Activity_Id>
-      <Room>D03.3.01.05</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>177</Activity_Id>
-      <Room>R. Audio Visual (Lt 2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>178</Activity_Id>
-      <Room>R. M2 (Lt 1)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>179</Activity_Id>
       <Room>Lab Pend Mat (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -11217,31 +11193,23 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>180</Activity_Id>
-      <Room>Lab Kom 1 (Lt 3)</Room>
+      <Activity_Id>177</Activity_Id>
+      <Room>R. M2 (Lt 1)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>181</Activity_Id>
-      <Room>Lab Kom 1 (Lt 3)</Room>
+      <Activity_Id>178</Activity_Id>
+      <Room>R. Audio Visual (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>182</Activity_Id>
-      <Room>Lab Kom 1 (Lt 3)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>183</Activity_Id>
+      <Activity_Id>179</Activity_Id>
       <Room>Lab Kom 2 (Lt2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -11249,8 +11217,40 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>180</Activity_Id>
+      <Room>Lab Pend Mat (Lt 3)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>181</Activity_Id>
+      <Room>Lab Pend Mat (Lt 3)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>182</Activity_Id>
+      <Room>Lab Kom 2 (Lt2)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>183</Activity_Id>
+      <Room>Lab Pend Mat (Lt 3)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>184</Activity_Id>
-      <Room>Lab Kom 1 (Lt 3)</Room>
+      <Room>Lab Kom 2 (Lt2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11258,7 +11258,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>185</Activity_Id>
-      <Room>D07.3.01.10</Room>
+      <Room>D02.3.01.05</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11266,14 +11266,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>186</Activity_Id>
-      <Room>D03.3.01.05</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>187</Activity_Id>
       <Room>Lab Kom 1 (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -11281,8 +11273,16 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>187</Activity_Id>
+      <Room>D02.1.01.06</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>188</Activity_Id>
-      <Room>D02.3.01.06</Room>
+      <Room>Lab Kom 1 (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11290,7 +11290,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>189</Activity_Id>
-      <Room>D07.2.01.09</Room>
+      <Room>Lab Kom 1 (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11298,7 +11298,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>191</Activity_Id>
-      <Room>R. M2 (Lt 1)</Room>
+      <Room>D04.3.01.10 (Magister)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11314,7 +11314,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>193</Activity_Id>
-      <Room>R. M2 (Lt 1)</Room>
+      <Room>D04.3.01.10 (Magister)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11322,7 +11322,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>194</Activity_Id>
-      <Room>D04.2.01.10(Magister)</Room>
+      <Room>D04.2.01.06(Magister)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11330,7 +11330,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>195</Activity_Id>
-      <Room>R. M2 (Lt 1)</Room>
+      <Room>D04.2.01.10(Magister)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11338,7 +11338,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>196</Activity_Id>
-      <Room>R. M2 (Lt 1)</Room>
+      <Room>D04.2.01.06(Magister)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11346,38 +11346,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>201</Activity_Id>
-      <Room>R. PPG 2 (Lt 2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>202</Activity_Id>
-      <Room>R. PPG 1 (Lt 2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>203</Activity_Id>
-      <Room>R. PPG 1 (Lt 2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>204</Activity_Id>
-      <Room>R. PPG 1 (Lt 2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>205</Activity_Id>
       <Room>D07.2.01.09</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -11385,8 +11353,40 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>202</Activity_Id>
+      <Room>R. PPG 2 (Lt 2)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>203</Activity_Id>
+      <Room>D03.2.01.05</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>204</Activity_Id>
+      <Room>D03.2.01.05</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>205</Activity_Id>
+      <Room>D02.1.01.06</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>206</Activity_Id>
-      <Room>D03.3.01.05</Room>
+      <Room>D07.2.01.09</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11394,7 +11394,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>207</Activity_Id>
-      <Room>R. PPG 2 (Lt 2)</Room>
+      <Room>R. PPG 1 (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11410,7 +11410,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>209</Activity_Id>
-      <Room>D03.3.01.05</Room>
+      <Room>D02.1.01.06</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11418,7 +11418,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>210</Activity_Id>
-      <Room>R. Audio Visual (Lt 2)</Room>
+      <Room>Lab Kom 2 (Lt2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11426,30 +11426,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>212</Activity_Id>
-      <Room>D04.2.01.10(Magister)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>213</Activity_Id>
-      <Room>Lab Kom 2 (Lt2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>214</Activity_Id>
-      <Room>R. M2 (Lt 1)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>215</Activity_Id>
       <Room>D04.3.01.10 (Magister)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -11457,15 +11433,7 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>216</Activity_Id>
-      <Room>D07.3.01.10</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>217</Activity_Id>
+      <Activity_Id>213</Activity_Id>
       <Room>Lab Pend Mat (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -11473,23 +11441,31 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>218</Activity_Id>
-      <Room>Lab Kom 1 (Lt 3)</Room>
+      <Activity_Id>214</Activity_Id>
+      <Room>R. Audio Visual (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>219</Activity_Id>
-      <Room>D07.3.01.10</Room>
+      <Activity_Id>215</Activity_Id>
+      <Room>D04.2.01.06(Magister)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>220</Activity_Id>
+      <Activity_Id>216</Activity_Id>
+      <Room>D03.2.01.05</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>217</Activity_Id>
       <Room>Lab Kom 2 (Lt2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -11497,7 +11473,7 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>221</Activity_Id>
+      <Activity_Id>218</Activity_Id>
       <Room>D03.3.01.05</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -11505,8 +11481,32 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>219</Activity_Id>
+      <Room>Lab Kom 1 (Lt 3)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>220</Activity_Id>
+      <Room>D03.2.01.05</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>221</Activity_Id>
+      <Room>D03.2.01.05</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>222</Activity_Id>
-      <Room>Lab Kom 2 (Lt2)</Room>
+      <Room>Lab Kom 1 (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11514,7 +11514,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>223</Activity_Id>
-      <Room>D04.2.01.06(Magister)</Room>
+      <Room>R. M2 (Lt 1)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11530,7 +11530,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>225</Activity_Id>
-      <Room>R. PPG 1 (Lt 2)</Room>
+      <Room>D07.3.01.10</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11538,7 +11538,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>226</Activity_Id>
-      <Room>D07.2.01.09</Room>
+      <Room>R. PPG 2 (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11546,14 +11546,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>227</Activity_Id>
-      <Room>D04.2.01.10(Magister)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>228</Activity_Id>
       <Room>D04.3.01.10 (Magister)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -11561,8 +11553,16 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>228</Activity_Id>
+      <Room>D04.2.01.10(Magister)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>231</Activity_Id>
-      <Room>D07.2.01.09</Room>
+      <Room>Lab Pend Mat (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11594,86 +11594,6 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>235</Activity_Id>
-      <Room>D02.3.01.05</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>236</Activity_Id>
-      <Room>D02.1.01.06</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>237</Activity_Id>
-      <Room>D02.1.01.06</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>238</Activity_Id>
-      <Room>D02.1.01.06</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>239</Activity_Id>
-      <Room>R. PPG 2 (Lt 2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>240</Activity_Id>
-      <Room>R. Audio Visual (Lt 2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>241</Activity_Id>
-      <Room>D03.2.01.05</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>242</Activity_Id>
-      <Room>D02.3.01.05</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>243</Activity_Id>
-      <Room>D02.2.01.06</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>244</Activity_Id>
-      <Room>R. PPG 1 (Lt 2)</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>245</Activity_Id>
       <Room>Lab Pend Mat (Lt 3)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -11681,8 +11601,88 @@ Departemen Pendidikan Matematika</Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>236</Activity_Id>
+      <Room>D02.3.01.06</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>237</Activity_Id>
+      <Room>R. PPG 2 (Lt 2)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>238</Activity_Id>
+      <Room>Lab Kom 1 (Lt 3)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>239</Activity_Id>
+      <Room>D03.3.01.05</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>240</Activity_Id>
+      <Room>R. M2 (Lt 1)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>241</Activity_Id>
+      <Room>D02.1.01.06</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>242</Activity_Id>
+      <Room>R. PPG 2 (Lt 2)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>243</Activity_Id>
+      <Room>D03.3.01.05</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>244</Activity_Id>
+      <Room>R. PPG 2 (Lt 2)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>245</Activity_Id>
+      <Room>R. PPG 2 (Lt 2)</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>246</Activity_Id>
-      <Room>R. Audio Visual (Lt 2)</Room>
+      <Room>D03.2.01.05</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11690,7 +11690,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>247</Activity_Id>
-      <Room>D04.2.01.06(Magister)</Room>
+      <Room>R. Audio Visual (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11714,7 +11714,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>250</Activity_Id>
-      <Room>D03.3.01.05</Room>
+      <Room>D02.3.01.06</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11722,7 +11722,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>251</Activity_Id>
-      <Room>R. PPG 2 (Lt 2)</Room>
+      <Room>Lab Kom 2 (Lt2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11730,7 +11730,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>252</Activity_Id>
-      <Room>D07.3.01.10</Room>
+      <Room>D02.3.01.06</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11738,7 +11738,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>253</Activity_Id>
-      <Room>D07.3.01.10</Room>
+      <Room>R. PPG 1 (Lt 2)</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11746,7 +11746,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>254</Activity_Id>
-      <Room>Lab Kom 2 (Lt2)</Room>
+      <Room>D02.3.01.05</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11754,7 +11754,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>255</Activity_Id>
-      <Room>Lab Kom 2 (Lt2)</Room>
+      <Room>D02.1.01.06</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -11762,7 +11762,7 @@ Departemen Pendidikan Matematika</Comments>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>263</Activity_Id>
-      <Room>R. PPG 2 (Lt 2)</Room>
+      <Room>D03.2.01.05</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
