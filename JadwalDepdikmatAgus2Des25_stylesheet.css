@@ -1,0 +1,1289 @@
+﻿@charset "UTF-8";
+
+/* CSS Style sheet of JadwalDepdikmatAgus2Des25.fet
+   Style sheet generated with FET 7.4.0 on 7/31/25 1:10 PM */
+
+/* To do a page-break only after every second timetable, delete "page-break-before: always;" in "table.even_table". */
+/* Delete "page-break-before: always;" in "table.even_table" and in "table.odd_table" to skip page-breaks. */
+/* To hide an element just write the following phrase into the element: "display: none;" (without quotes). */
+
+p.back {
+  margin-top: 4ex;
+  margin-bottom: 5ex;
+}
+
+table {
+  text-align: center;
+  page-break-inside: avoid;
+}
+
+table.odd_table {
+  page-break-before: always;
+}
+
+table.even_table {
+  page-break-before: always;
+}
+
+table.detailed {
+  margin-left: auto; margin-right: auto;
+  text-align: center;
+  border: 0px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+caption {
+
+}
+
+span.institution {
+  font-weight: bold;
+}
+
+span.name {
+
+}
+
+span.comment {
+  /*font-style: italic;*/
+}
+
+span.legend_title {
+  font-weight: bold;
+}
+
+thead {
+
+}
+
+/* Some programs import "tfoot" incorrectly. So we use "tr.foot" instead of "tfoot". */
+
+tr.foot {
+
+}
+
+tbody {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+td.detailed {
+  border: 1px dashed silver;
+  border-bottom: 0;
+  border-top: 0;
+}
+
+th.xAxis {
+/* width: 8em; */
+}
+
+th.yAxis {
+  height: 8ex;
+}
+
+span.s_1 { /* subject DPM90201 Filsafat Ilmu Pendidikan Matematika */
+
+}
+
+span.s_2 { /* subject DPM90301 Isu Kontemporer Pendidikan Matematika */
+
+}
+
+span.s_3 { /* subject DPM90202 Strategi Pembelajaran Matematika Inovatif */
+
+}
+
+span.s_4 { /* subject DPM90203 Penulisan Artikel Ilmiah */
+
+}
+
+span.s_5 { /* subject DPM90205 Daya Matematika */
+
+}
+
+span.s_6 { /* subject DPM90401 Analisis dan Desain Penelitian Pendidikan Matematika */
+
+}
+
+span.s_7 { /* subject DPM90402 Psikologi Kognitif Pembelajaran Matematika */
+
+}
+
+span.s_8 { /* subject DPM90303 Didaktik Matematika */
+
+}
+
+span.s_9 { /* subject DPM90304 Teori Multimedia Pembelajaran Matematika */
+
+}
+
+span.s_10 { /* subject DPM90305 Model Asesmen Pembelajaran Matematika */
+
+}
+
+span.s_11 { /* subject DPM90306 Penyusunan Desain (Tugas Akhir Doktor) */
+
+}
+
+span.s_12 { /* subject DPM90402 Pengembangan Perangkat Desain (Tugas Akhir Doktor) */
+
+}
+
+span.s_13 { /* subject DPM90403 Seminar Hasil Implementasi Desain (Tugas Akhir Doktor) */
+
+}
+
+span.s_14 { /* subject DPM90404 Studi Pendahuluan */
+
+}
+
+span.s_15 { /* subject DPM90405 Proposal Awal Penelitian */
+
+}
+
+span.s_16 { /* subject DPM90601 Penulisan Tugas Akhir Doktor */
+
+}
+
+span.s_17 { /* subject FMI60201 Wawasan dan Kajian MIPA */
+
+}
+
+span.s_18 { /* subject FMI6202 Statistika Dasar */
+
+}
+
+span.s_19 { /* subject FMI80201 Filsafat Ilmu */
+
+}
+
+span.s_20 { /* subject FMI80202 Statistika */
+
+}
+
+span.s_21 { /* subject FMI80301 Metodologi Penelitian Pendidikan */
+
+}
+
+span.s_22 { /* subject MME80201 Analisis Real */
+
+}
+
+span.s_23 { /* subject MME80202 Strategi Pembelajaran Matematika Inovatif */
+
+}
+
+span.s_24 { /* subject MME80203 Teknologi Pembelajaran Matematika */
+
+}
+
+span.s_25 { /* subject MME80204 Daya Matematika */
+
+}
+
+span.s_26 { /* subject MME80205 Geometri */
+
+}
+
+span.s_27 { /* subject MME80306 Kajian Masalah-Masalah Pendidikan Matematika */
+
+}
+
+span.s_28 { /* subject MME80307 Psikologi Belajar Matematika */
+
+}
+
+span.s_29 { /* subject MME80308 Asesmen Pembelajaran Matematika */
+
+}
+
+span.s_30 { /* subject MME80309 Praktikum Inovasi Pembelajaran Matematika */
+
+}
+
+span.s_31 { /* subject MME80310 Proposal Tesis */
+
+}
+
+span.s_32 { /* subject MME80311 Statistika Matematika */
+
+}
+
+span.s_33 { /* subject MME80312 Penulisan Artikel Ilmiah */
+
+}
+
+span.s_34 { /* subject MME80313 Aljabar Abstrak */
+
+}
+
+span.s_35 { /* subject MME80314 Analisis Numerik */
+
+}
+
+span.s_36 { /* subject MME80316 Teori Himpunan Samar */
+
+}
+
+span.s_37 { /* subject MME80317 Pemodelan Persamaan Struktural */
+
+}
+
+span.s_38 { /* subject MME80318 Machine Learning */
+
+}
+
+span.s_39 { /* subject MME80319 Persamaan Diferensial */
+
+}
+
+span.s_40 { /* subject MME80320 Teori Bilangan dan Aplikasinya */
+
+}
+
+span.s_41 { /* subject MME80321 Kajian Kurikulum Pendidikan Matematika */
+
+}
+
+span.s_42 { /* subject MME80322 Etnomatematika */
+
+}
+
+span.s_43 { /* subject MME80323 Matematika Model */
+
+}
+
+span.s_44 { /* subject MME80324 Pendidikan Matematika Realistik */
+
+}
+
+span.s_45 { /* subject MME80325 Pembelajaran Matematika Berbasis AI */
+
+}
+
+span.s_46 { /* subject MME80326 Pemrograman Media Berbasis Web */
+
+}
+
+span.s_47 { /* subject MME80327 Matematika Sekolah Kurikulum Internasional */
+
+}
+
+span.s_48 { /* subject MME80328 Evaluasi Program Pendidikan Matematika */
+
+}
+
+span.s_49 { /* subject MME80329 Kajian Kurikulum dan Strategi Pembelajaran Matematika */
+
+}
+
+span.s_50 { /* subject MME80330 Perencanaan dan Pengembangan Media Pembelajaran Matematika */
+
+}
+
+span.s_51 { /* subject MWK60201 Pend. Agama Islam */
+
+}
+
+span.s_52 { /* subject MWK60207 Pendidikan Kewarganegaraan */
+
+}
+
+span.s_53 { /* subject MWP60201 Ilmu Pendidikan */
+
+}
+
+span.s_54 { /* subject MWP60202 Psikologi Pendidikan */
+
+}
+
+span.s_55 { /* subject MWU60201 Bahasa Inggris Tujuan Khusus */
+
+}
+
+span.s_56 { /* subject MWU60203 Pendidikan dan Pembangunan Berkelanjutan */
+
+}
+
+span.s_57 { /* subject SMT60201 Teori Bilangan */
+
+}
+
+span.s_58 { /* subject SMT60202 Kalkulus Multivariabel */
+
+}
+
+span.s_59 { /* subject SMT60203 Pengantar Analisis Real */
+
+}
+
+span.s_60 { /* subject SMT60205 Teori Himpunan Samar */
+
+}
+
+span.s_61 { /* subject SMT60301 Algoritma dan Pemrograman */
+
+}
+
+span.s_62 { /* subject SMT60302 Aljabar Linear Elementer */
+
+}
+
+span.s_63 { /* subject SMT60303 Kalkulus Diferensial */
+
+}
+
+span.s_64 { /* subject SMT60304 Logika dan Himpunan */
+
+}
+
+span.s_65 { /* subject SMT60309 Aplikasi Komputer */
+
+}
+
+span.s_66 { /* subject SMT60310 Pengantar Teori Grup */
+
+}
+
+span.s_67 { /* subject SMT60311 Program Linear */
+
+}
+
+span.s_68 { /* subject SMT60312 Teori Peluang */
+
+}
+
+span.s_69 { /* subject SMT60314 Analisis Real */
+
+}
+
+span.s_70 { /* subject SMT60318 Analisis Kompleks */
+
+}
+
+span.s_71 { /* subject SMT60319 Pemrograman Berorientasi Objek */
+
+}
+
+span.s_72 { /* subject SMT60320 Riset Operasi */
+
+}
+
+span.s_73 { /* subject SMT60321 Teori Graf */
+
+}
+
+span.s_74 { /* subject SMT60324 Teori Modul */
+
+}
+
+span.s_75 { /* subject SMT60325 Kriptografi */
+
+}
+
+span.s_76 { /* subject SMT60326 Aljabar Linear Terapan */
+
+}
+
+span.s_77 { /* subject SMT60335 Matematika Keuangan */
+
+}
+
+span.s_78 { /* subject SMT60336 Matematika Teknik */
+
+}
+
+span.s_79 { /* subject SMT60337 Masalah Awal dan Nilai Syarat Batas */
+
+}
+
+span.s_80 { /* subject SMT60341 Sistem Pendukung Keputusan */
+
+}
+
+span.s_81 { /* subject SMT60342 Pemrograman Desain Web */
+
+}
+
+span.s_82 { /* subject SMT60343 Pengolahan Citra Digital */
+
+}
+
+span.s_83 { /* subject SMT60348 Statistika Nonparametrik */
+
+}
+
+span.s_84 { /* subject SMT60349 Rancangan Percobaan */
+
+}
+
+span.s_85 { /* subject SMT60350 Komputasi Statistika */
+
+}
+
+span.s_86 { /* subject SMT60401 Persamaan Diferensial */
+
+}
+
+span.s_87 { /* subject SPM60101 Praktikum Statistika Dasar */
+
+}
+
+span.s_88 { /* subject SPM60203 Aplikasi Komputer */
+
+}
+
+span.s_89 { /* subject SPM60205 Kreativitas, Inovasi, dan Kewirausahaan */
+
+}
+
+span.s_90 { /* subject SPM60206 Teori Bilangan */
+
+}
+
+span.s_91 { /* subject SPM60214 Pengantar Analisis Real */
+
+}
+
+span.s_92 { /* subject SPM60215 Filsafat Pendidikan Matematika */
+
+}
+
+span.s_93 { /* subject SPM60217 Kajian Matematika Sekolah Menengah 2 */
+
+}
+
+span.s_94 { /* subject SPM60219 Media Pembelajaran Matematika Interaktif */
+
+}
+
+span.s_95 { /* subject SPM60220 Metode Numerik */
+
+}
+
+span.s_96 { /* subject SPM60221 Penilaian Pembelajaran Matematika */
+
+}
+
+span.s_97 { /* subject SPM60222 Sejarah Matematika */
+
+}
+
+span.s_98 { /* subject SPM60225 Kajian Pendidikan Matematika Internasional */
+
+}
+
+span.s_99 { /* subject SPM60227 Pendekatan Pembelajaran STEM */
+
+}
+
+span.s_100 { /* subject SPM60230 Teori Graf */
+
+}
+
+span.s_101 { /* subject SPM60301 Aljabar dan Trigonometri */
+
+}
+
+span.s_102 { /* subject SPM60302 Kalkulus Diferensial */
+
+}
+
+span.s_103 { /* subject SPM60303 Logika dan Himpunan */
+
+}
+
+span.s_104 { /* subject SPM60306 Kalkulus Lanjut */
+
+}
+
+span.s_105 { /* subject SPM60307 Persamaan Diferensial */
+
+}
+
+span.s_106 { /* subject SPM60308 Program Linear */
+
+}
+
+span.s_107 { /* subject SPM60310 Perencanaan Pembelajaran Matematika */
+
+}
+
+span.s_108 { /* subject SPM60311 Bahasa Inggris Matematika */
+
+}
+
+span.s_109 { /* subject SPM60312 Kajian Berpikir Matematis */
+
+}
+
+span.s_110 { /* subject SPM60314 Kapita Selekta Pendikan Matematika */
+
+}
+
+span.s_111 { /* subject SST60301 Logika dan Himpunan */
+
+}
+
+span.s_112 { /* subject SST60302 Kalkulus Dasar untuk Statistika */
+
+}
+
+span.s_113 { /* subject SST60303 Aljabar Linear dan Matriks */
+
+}
+
+span.s_114 { /* subject SST60304 Algoritma dan Pemrograman untuk Statistika */
+
+}
+
+span.s_115 { /* subject SST60309 Analisis dan Perancangan Survei */
+
+}
+
+span.s_116 { /* subject SST60310 Rancangan Percobaan */
+
+}
+
+span.s_117 { /* subject SST60311 Analisis Runtun Waktu */
+
+}
+
+span.s_118 { /* subject SST60312 Optimisasi Statistika */
+
+}
+
+span.s_119 { /* subject SST60313 Teori Peluang */
+
+}
+
+span.s_120 { /* subject SST60314 Basis Data untuk Statistika */
+
+}
+
+span.s_121 { /* subject SST60321 Statistika Multivariat */
+
+}
+
+span.s_122 { /* subject SST60322 Machine Learning */
+
+}
+
+span.s_123 { /* subject SST60323 Jaringan Syaraf Tiruan */
+
+}
+
+span.s_124 { /* subject SST60324 Teknik Simulasi */
+
+}
+
+span.s_125 { /* subject SST60325 Statistika Matematika II */
+
+}
+
+span.s_126 { /* subject SST60329 Analisis Mediasi Statistik */
+
+}
+
+span.s_127 { /* subject SST60334 Ekonometrika */
+
+}
+
+span.s_128 { /* subject SST60339 Biostatistika Terapan */
+
+}
+
+span.s_129 { /* subject SST60344 Matematika Keuangan */
+
+}
+
+span.at_3 { /* activity tag S1 */
+
+}
+
+span.at_4 { /* activity tag S2 */
+
+}
+
+span.at_5 { /* activity tag S3 */
+
+}
+
+span.at_6 { /* activity tag PL */
+
+}
+
+span.ss_7 { /* students set MATS1_2023B */
+
+}
+
+span.ss_10 { /* students set MATS1_2023BE_P1 */
+
+}
+
+span.ss_16 { /* students set MATS1_2023BE_P3 */
+
+}
+
+span.ss_19 { /* students set MATS1_2023BE_P4 */
+
+}
+
+span.ss_22 { /* students set MATS1_2023BE_P5 */
+
+}
+
+span.ss_25 { /* students set MATS1_2023E */
+
+}
+
+span.ss_28 { /* students set MATS1_2024B */
+
+}
+
+span.ss_31 { /* students set MATS1_2024E */
+
+}
+
+span.ss_34 { /* students set MATS1_2025B */
+
+}
+
+span.ss_37 { /* students set MATS1_2025E */
+
+}
+
+span.ss_46 { /* students set PMATS1_2023A */
+
+}
+
+span.ss_49 { /* students set PMATS1_2023ACD_P1 */
+
+}
+
+span.ss_52 { /* students set PMATS1_2023ACD_P2 */
+
+}
+
+span.ss_55 { /* students set PMATS1_2023ACD_P3 */
+
+}
+
+span.ss_58 { /* students set PMATS1_2023ACD_P4 */
+
+}
+
+span.ss_61 { /* students set PMATS1_2023ACD_P5 */
+
+}
+
+span.ss_64 { /* students set PMATS1_2023C */
+
+}
+
+span.ss_67 { /* students set PMATS1_2023D */
+
+}
+
+span.ss_70 { /* students set PMATS1_2024A */
+
+}
+
+span.ss_73 { /* students set PMATS1_2024C */
+
+}
+
+span.ss_76 { /* students set PMATS1_2024D */
+
+}
+
+span.ss_79 { /* students set PMATS1_2025A */
+
+}
+
+span.ss_82 { /* students set PMATS1_2025C */
+
+}
+
+span.ss_85 { /* students set PMATS1_2025D */
+
+}
+
+span.ss_118 { /* students set PMATS2_2024A */
+
+}
+
+span.ss_121 { /* students set PMATS2_2024B */
+
+}
+
+span.ss_124 { /* students set PMATS2_2024C */
+
+}
+
+span.ss_127 { /* students set PMATS2_2024I */
+
+}
+
+span.ss_130 { /* students set PMATS2_2024IJ_P1 */
+
+}
+
+span.ss_133 { /* students set PMATS2_2024IJ_P2 */
+
+}
+
+span.ss_136 { /* students set PMATS2_2024J */
+
+}
+
+span.ss_139 { /* students set PMATS2_2024RPL */
+
+}
+
+span.ss_142 { /* students set PMATS2_2025A */
+
+}
+
+span.ss_145 { /* students set PMATS2_2025B */
+
+}
+
+span.ss_148 { /* students set PMATS2_2025C */
+
+}
+
+span.ss_169 { /* students set PMATS3_2024A */
+
+}
+
+span.ss_172 { /* students set PMATS3_2024B */
+
+}
+
+span.ss_175 { /* students set PMATS3_2024C */
+
+}
+
+span.ss_181 { /* students set PMATS3_2025A */
+
+}
+
+span.ss_184 { /* students set PMATS3_2025Feb */
+
+}
+
+span.ss_193 { /* students set STATS1_2023G */
+
+}
+
+span.ss_196 { /* students set STATS1_2023G1 */
+
+}
+
+span.ss_205 { /* students set STATS1_2023G4 */
+
+}
+
+span.ss_211 { /* students set STATS1_2024G */
+
+}
+
+span.ss_214 { /* students set STATS1_2025G */
+
+}
+
+span.ss_217 { /* students set STATS1_2025H */
+
+}
+
+span.t_1 { /* teacher Agus Maman Abadi, Dr., Prof. */
+
+}
+
+span.t_2 { /* teacher Aini Mahabbati, S.Pd., M.A., Dr. */
+
+}
+
+span.t_3 { /* teacher Ali Mahmudi, Dr. */
+
+}
+
+span.t_4 { /* teacher Andika Putri Ratnasari, M.Si. */
+
+}
+
+span.t_5 { /* teacher Aris Martiana, S.Pd, M.Si. */
+
+}
+
+span.t_6 { /* teacher Ariyadi Wijaya, Ph.D., Prof. */
+
+}
+
+span.t_7 { /* teacher Ayu Usada Rengkaningtias, M.Sos. */
+
+}
+
+span.t_8 { /* teacher A'yunin Akrimni Darojat, S.Psi., M.Psi. */
+
+}
+
+span.t_9 { /* teacher Bambang Sumarno H.M., M.Kom. */
+
+}
+
+span.t_10 { /* teacher Benni Setiawan, S.H.I., M.S.I. */
+
+}
+
+span.t_11 { /* teacher Caturiyati, M.Si. */
+
+}
+
+span.t_12 { /* teacher Cinthia Reswari, S.Pd., M.Pd., Dr. */
+
+}
+
+span.t_13 { /* teacher Dhoriva Urwatul Wustqo, Dr., Prof. */
+
+}
+
+span.t_14 { /* teacher Djamilah Bondan W., M.Si., Dr. */
+
+}
+
+span.t_15 { /* teacher Dwi Lestari, M.Sc., Dr. */
+
+}
+
+span.t_16 { /* teacher Elly Arliani, M.Si., Dr. */
+
+}
+
+span.t_17 { /* teacher Elya Marfuatun, S.Psi., M.Psi. */
+
+}
+
+span.t_18 { /* teacher Eminugroho Ratna Sari, M.Sc., Dr. */
+
+}
+
+span.t_19 { /* teacher Endah Retnowati, Ph.D. */
+
+}
+
+span.t_20 { /* teacher Ezra Putranda S., M.Sc. */
+
+}
+
+span.t_21 { /* teacher Fatma Agus Setyaningsih, M.Cs. */
+
+}
+
+span.t_22 { /* teacher Febi Puspitasari, M.Pd. */
+
+}
+
+span.t_23 { /* teacher Fithri Annisatun Lathifah, M. Si. */
+
+}
+
+span.t_24 { /* teacher Fitriana Yuli S., M.Si., Dr. */
+
+}
+
+span.t_25 { /* teacher Fungki Febiantoni, M.Pd., Dr. */
+
+}
+
+span.t_26 { /* teacher Hartono, Dr., Prof. */
+
+}
+
+span.t_27 { /* teacher Heri Retnawati, Dr., Prof. */
+
+}
+
+span.t_28 { /* teacher Herman Dwi Surjono, Dr., Prof. */
+
+}
+
+span.t_29 { /* teacher Heru Sukoco, M.Pd. */
+
+}
+
+span.t_30 { /* teacher Himmawati Puji Lestari, M.Si. */
+
+}
+
+span.t_31 { /* teacher Husna Arifah, M.Sc. */
+
+}
+
+span.t_32 { /* teacher Ikha Perwita P., M.Sc. */
+
+}
+
+span.t_33 { /* teacher Ilham Rizkianto, M.Sc. */
+
+}
+
+span.t_34 { /* teacher Indah Permatasari, S.Pd., M.Pd. */
+
+}
+
+span.t_35 { /* teacher Indira Ihnu Brilliant, M.Stat. */
+
+}
+
+span.t_36 { /* teacher Ismarini Bekti Setiani, S.Pd., M.Pd */
+
+}
+
+span.t_37 { /* teacher Jailani, Dr., Prof. */
+
+}
+
+span.t_38 { /* teacher Johan Dwi Saputro, M.Pd. */
+
+}
+
+span.t_39 { /* teacher Kana Hidayati, Dr., Prof. */
+
+}
+
+span.t_40 { /* teacher Karyati, Dr. */
+
+}
+
+span.t_41 { /* teacher Kismiantini, Ph.D., Prof. */
+
+}
+
+span.t_42 { /* teacher Kuswari Hernawati, Dr., M.Kom. */
+
+}
+
+span.t_43 { /* teacher Luthfia Hanun Yuli Arini, M.Stat. */
+
+}
+
+span.t_44 { /* teacher Mareta Puspita, S.Pd., M.Pd. */
+
+}
+
+span.t_45 { /* teacher Marsigit, M.A., Dr., Prof. */
+
+}
+
+span.t_46 { /* teacher Marzuki, M.Ag., Dr., Prof. */
+
+}
+
+span.t_47 { /* teacher Mathilda Susanti, M.Si., Dr. */
+
+}
+
+span.t_48 { /* teacher Muhammad Irfan, Dr. */
+
+}
+
+span.t_49 { /* teacher Murdanu, M.Pd. */
+
+}
+
+span.t_50 { /* teacher Musthofa, M.Sc., Dr. */
+
+}
+
+span.t_51 { /* teacher Neng Desi Aryani, M.Pd., Dr. */
+
+}
+
+span.t_52 { /* teacher Nikenasih Binatari, M.Si., Dr. */
+
+}
+
+span.t_53 { /* teacher Nila Mareta Murdiyani, M.Sc. */
+
+}
+
+span.t_54 { /* teacher Noor Widijantoro, Drs., M.Pd., Dr. */
+
+}
+
+span.t_55 { /* teacher Nur Hadi Waryanto, M.Eng. */
+
+}
+
+span.t_56 { /* teacher Nur Insani, M.Sc., Ph.D. */
+
+}
+
+span.t_57 { /* teacher Primanisa Inayati Azizah, M.Pd. */
+
+}
+
+span.t_58 { /* teacher Puji Wulandari Kuncorowati, SH., M.Kn. */
+
+}
+
+span.t_59 { /* teacher R. Rosnawati, M.Si., Dr. */
+
+}
+
+span.t_60 { /* teacher Retno Subekti, M.Sc., Dr. */
+
+}
+
+span.t_61 { /* teacher Rizky Nur'aini, M.Stat. */
+
+}
+
+span.t_62 { /* teacher Rofi Amiyani, M.Pd. */
+
+}
+
+span.t_63 { /* teacher Sahid, Drs., M.Sc. */
+
+}
+
+span.t_64 { /* teacher Siti Kholifah, M. Pd. */
+
+}
+
+span.t_65 { /* teacher Sri Andayani, M.Kom., Dr. */
+
+}
+
+span.t_66 { /* teacher Sugiman, M.Si., Dr., Prof. */
+
+}
+
+span.t_67 { /* teacher Syarifah Inayati, M.Sc., Dr. */
+
+}
+
+span.t_68 { /* teacher Syukrul Hamdi, Dr. */
+
+}
+
+span.t_69 { /* teacher Thesa Adi S., M.Cs. */
+
+}
+
+span.t_70 { /* teacher Tuharto, Drs., M.Si. */
+
+}
+
+span.t_71 { /* teacher Wahyu Setyaningrum, Ph.D. */
+
+}
+
+span.r_1 { /* room D02.1.01.06 */
+
+}
+
+span.r_2 { /* room D02.2.01.06 */
+
+}
+
+span.r_3 { /* room D02.3.01.05 */
+
+}
+
+span.r_4 { /* room D02.3.01.06 */
+
+}
+
+span.r_5 { /* room D03.2.01.05 */
+
+}
+
+span.r_6 { /* room D03.3.01.05 */
+
+}
+
+span.r_7 { /* room D07.2.01.09 */
+
+}
+
+span.r_8 { /* room D07.3.01.10 */
+
+}
+
+span.r_9 { /* room D04.2.01.06(Magister) */
+
+}
+
+span.r_10 { /* room D04.2.01.10(Magister) */
+
+}
+
+span.r_11 { /* room D04.3.01.10 (Magister) */
+
+}
+
+span.r_12 { /* room Lab Kom 1 (Lt 3) */
+
+}
+
+span.r_13 { /* room Lab Kom 2 (Lt2) */
+
+}
+
+span.r_14 { /* room Lab Kom 3 (IDB) */
+
+}
+
+span.r_15 { /* room Lab Pend Mat (Lt 3) */
+
+}
+
+span.r_16 { /* room R. M2 (Lt 1) */
+
+}
+
+span.r_17 { /* room R. PPG 1 (Lt 2) */
+
+}
+
+span.r_18 { /* room R. PPG 2 (Lt 2) */
+
+}
+
+span.r_19 { /* room R. Audio Visual (Lt 2) */
+
+}
+
+span.subject {
+
+}
+
+span.activitytag {
+
+}
+
+span.empty {
+  color: gray;
+}
+
+td.empty {
+  border-color: silver;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: dotted;
+  border-top-style: dotted;
+}
+
+span.notAvailable {
+  color: gray;
+}
+
+td.notAvailable {
+  border-color: silver;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: dotted;
+  border-top-style: dotted;
+}
+
+span.break {
+  color: gray;
+}
+
+td.break {
+  border-color: silver;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: dotted;
+  border-top-style: dotted;
+}
+
+tr.studentsset, div.studentsset {
+
+}
+
+tr.teacher, div.teacher {
+
+}
+
+tr.room, div.room {
+
+}
+
+tr.line0, div.line0 {
+  font-size: smaller;
+}
+
+tr.line1, div.line1 {
+
+}
+
+tr.line2, div.line2 {
+  font-size: smaller;
+  color: gray;
+}
+
+tr.line3, div.line3 {
+  font-size: smaller;
+  color: silver;
+}
+
+/* Style the teachers' free periods */
+
+div.DESCRIPTION {
+  text-align: left;
+  font-size: smaller;
+}
+
+div.TEACHER_HAS_SINGLE_GAP {
+  color: black;
+}
+
+div.TEACHER_HAS_BORDER_GAP {
+  color: gray;
+}
+
+div.TEACHER_HAS_BIG_GAP {
+  color: silver;
+}
+
+div.TEACHER_MUST_COME_EARLIER {
+  color: purple;
+}
+
+div.TEACHER_MUST_COME_MUCH_EARLIER {
+  font-size: smaller;
+  color: fuchsia;
+}
+
+div.TEACHER_MUST_STAY_LONGER {
+  color: teal;
+}
+
+div.TEACHER_MUST_STAY_MUCH_LONGER {
+  font-size: smaller;
+  color: aqua;
+}
+
+div.TEACHER_HAS_A_FREE_DAY {
+  font-size: smaller;
+  color: red;
+}
+
+div.TEACHER_IS_NOT_AVAILABLE {
+  font-size: smaller;
+  color: olive;
+}
+
+/* End of file. */
